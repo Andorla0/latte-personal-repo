@@ -3,7 +3,7 @@
 # Herramientas Esenciales para un Desarrollador Fullstack
 
 ## Tabla de Contenidos
-1. [1.1 Introducción](#1.1-Introducción)
+1. [1.1 Introducción](#11-introducción)
 2. [Lenguajes de Programación](#lenguajes-de-programación)
    - [JavaScript/TypeScript](#javascripttypescript)
    - [Python](#python)
